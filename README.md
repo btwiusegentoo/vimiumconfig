@@ -1,3 +1,3 @@
-# qutebrowser like key bindings for vimmium
+# vimmium config
 
-made for personally use.
+personally config backup.
