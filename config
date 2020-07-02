@@ -1,0 +1,16 @@
+# vim:ft=conf foldmethod=marker:
+# Insert your preferred key mappings here.
+unmap J
+unmap K
+unmap <c-e>
+unmap <c-y>
+unmap u
+unmap d
+unmap x
+unmap X
+map d removeTab
+map u restoreTab
+map <c-f> scrollPageDown
+map <c-b> scrollPageUp
+map J nextTab
+map K previousTab
