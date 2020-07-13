@@ -1,3 +1,3 @@
-# vimmium config
+# vimium config
 
 personally config backup.
