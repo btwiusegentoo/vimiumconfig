@@ -10,7 +10,9 @@ unmap x
 unmap X
 map d removeTab
 map u restoreTab
-map <c-f> scrollPageDown
-map <c-b> scrollPageUp
+map <c-f> scrollFullPageDown
+map <c-b> scrollFullPageUp
+map <c-d> scrollPageDown
+map <c-u> scrollPageUp
 map J nextTab
 map K previousTab
